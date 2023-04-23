@@ -9,3 +9,6 @@ You just have to download python 3.8 and Discord_RPC.py after that run the file 
     Details
       Displaying large image and it's custom text
         Displaying small image and it's custom text
+1. First list item
+   - First nested list item
+     - Second nested list item
