@@ -1,4 +1,4 @@
-# Discord_RPC (With Python)
+# Discord_RPC (Written with Python)
 This is my first project I made with Python, I hope you like it
 # Install and Usage:
 This is a very simple Discord Rich Presence. Its easy to use!
