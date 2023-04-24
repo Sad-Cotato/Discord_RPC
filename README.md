@@ -1,4 +1,5 @@
 # Discord_RPC (Written with Python)
+![image](https://user-images.githubusercontent.com/131625043/233876485-10aa9513-2ade-4221-bac1-ec0b454c4bd7.png)
 This is my first project I made with Python, I hope you like it
 # Install and Usage:
 This is a very simple Discord Rich Presence. Its easy to use!
