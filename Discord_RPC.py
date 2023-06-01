@@ -105,7 +105,7 @@ class Script2:
         elif user_input.lower() == "help":
             print("Type End to end the script")
             print("Type Reset to restart the script")
-            print("More commands in the future please subscribe to underrated shikari!")
+            print("More commands in the future")
             sc1.awesome()
         else :
             print("Unknown Command. Please type Help for more info.")
