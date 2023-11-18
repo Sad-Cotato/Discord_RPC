@@ -9,5 +9,5 @@ You just have to download python 3.8 and Discord_RPC.py after that run the file 
 # Features:
  1. State
  2. Details
- 3. Displaying large image and it's custom text
- 4. Displaying small image and it's custom text
+ 3. Displaying large image and custom text
+ 4. Displaying small image and custom text
