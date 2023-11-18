@@ -24,7 +24,7 @@ class bcolors:
     BOLD = '\033[1m'
     UNDERLINE = '\033[4m'
 print(f"{bcolors.WARNING}DISCORD RPC{bcolors.ENDC}")
-print(f"{bcolors.WARNING}Version 1.5{bcolors.ENDC} - Discord_RPC")
+print(f"{bcolors.WARNING}Version 2.0{bcolors.ENDC} - Discord_RPC")
 time.sleep(1.5)
 print(f"{bcolors.UNDERLINE}                           {bcolors.ENDC}")
 print("")
@@ -105,7 +105,6 @@ class Script2:
         elif user_input.lower() == "help":
             print("Type End to end the script")
             print("Type Reset to restart the script")
-            print("More commands in the future")
             sc1.awesome()
         else :
             print("Unknown Command. Please type Help for more info.")
